@@ -26,9 +26,7 @@
          "description": "Setting this to ANYTHING will enable environment variables.",
          "value": ""
       },
-      "SQLALCHEMY_DATABASE_URI": {
-         "description": "Your postgres sql db, empty this field if you dont have one. Watch Video (check out Redme.md)",
-         "value": ""
+
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
@@ -114,5 +112,5 @@
    ],
    "logo": "https://telegra.ph/file/e2a9d5c9eb9fd702f50d2.jpg",
    "name": "Evil-Inside",
-   "repository": "https://github.com/PANDITHAN/Evil-Inside.git"
+   "repository": "https://github.com/karanveersinghA3/Evil-Inside?organization=karanveersinghA3&organization=karanveersinghA3"
 }

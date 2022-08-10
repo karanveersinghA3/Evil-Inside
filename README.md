@@ -90,7 +90,7 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 
 - `PORT` : Port to use for your webhooks.
 
-- `SQLALCHEMY_DATABASE_URI` : Your postgres sql db, empty this field if you dont have one. {`sqldbtype://username:pw@hostname:port/db_name`}
+
 
 - `STRICT_GBAN` : Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned. {`True`}
 
